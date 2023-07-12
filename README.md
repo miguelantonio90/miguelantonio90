@@ -228,7 +228,7 @@
 &nbsp;
 <div align="center">
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=miguelantonio90&theme=onedark&row=1&rank=SECRET,S,SS,AAA,B,C" alt="miguelantonio90" />
+  <img src="https://github-profile-trophy.vercel.app/?username=miguelantonio90&theme=onedark&row=2&rank=SECRET,S,SS,AAA,B,C" alt="miguelantonio90" />
 </div>
 
 <!--
