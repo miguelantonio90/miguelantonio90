@@ -1,4 +1,8 @@
-### Hi there 👋
+<div>
+  <a align="left" href="https://linkedin.com/in/miguelcabreja90" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="miguelcabreja90" />
+  </a>
+</div>
 
 <!--
 **miguelantonio90/miguelantonio90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
