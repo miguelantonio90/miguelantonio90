@@ -12,7 +12,7 @@
 
 <!-- Other Stats -->
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelantonio90&theme=dark" alt="ky13d3nt0n" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelantonio90&theme=dark" alt="miguelcabreja90" />
 </div>
 
 <!-- Language & Tools -->
