@@ -23,7 +23,7 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelantonio90&theme=github" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelantonio90&theme=github-compact" alt="GitHub Activity Graph" />
 </div>
 
 <div align="center">
