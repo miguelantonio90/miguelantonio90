@@ -1,46 +1,35 @@
 
 <!-- Header -->
-<div>
-  <img alt="miguelcabreja90" class="bg mr ms c" loading="lazy" role="presentation" src="./github-header-image.png">	
+<div align="center">
+  <img src="./github-header-image.png" alt="Header Image" width="100%" style="max-width:600px;">
 </div>
 
-<!-- Profile Views -->
-<div>
-  <a align="left" href="https://linkedin.com/in/miguelcabreja90" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="miguelcabreja90" />
+<!-- Profile Links -->
+<div align="center">
+  <a href="https://linkedin.com/in/miguelcabreja90" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </div>
 
-<!-- Other Stats -->
+<!-- Stats and Graphs -->
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelantonio90&theme=dark" alt="miguelcabreja90" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelantonio90&theme=dark" alt="GitHub Streak Stats" />
 </div>
 
-<!-- Language & Tools -->
 ### Languages & Tools
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,angular,bootstrap,css,cypress,git,github,html,js,jquery,laravel,materialui,mongodb,mysql,nodejs,php,phpstorm,postgres,postman,react,symfony,ts,vue,vuetify" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,angular,bootstrap,css,cypress,git,github,html,js,jquery,laravel,materialui,mongodb,mysql,nodejs,php,phpstorm,postgres,postman,react,symfony,ts,vue,vuetify" alt="Languages and Tools" />
+</div>
 
-&nbsp;
 <div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelantonio90&theme=github-compact" alt="miguelantonio90" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelantonio90&layout=compact&theme=nord" alt="Top Languages" />
 </div>
-<!-- Stats -->
-<!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=miguelantonio90&show_icons=true&theme=nord&count_private=true&hide=stars" alt="Miguel Antonio GitHub Stats Card"/>-->
 
-<!-- Languages -->
+<!-- Trophies -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelantonio90&layout=compact&theme=nord" alt="Readme Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=miguelantonio90&theme=onedark&row=2&rank=SECRET,S,SS,AAA,B,C" alt="GitHub Trophies" />
 </div>
-&nbsp;
-<div align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=miguelantonio90&theme=onedark&row=2&rank=SECRET,S,SS,AAA,B,C" alt="miguelantonio90" />
-</div>
+
 <!--
 **miguelantonio90/miguelantonio90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
