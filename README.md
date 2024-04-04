@@ -218,6 +218,10 @@
 </table>
 
 &nbsp;
+<div align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelantonio90&theme=github-compact" alt="miguelantonio90" />
+</div>
 <!-- Stats -->
 <!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=miguelantonio90&show_icons=true&theme=nord&count_private=true&hide=stars" alt="Miguel Antonio GitHub Stats Card"/>-->
 
@@ -230,7 +234,6 @@
   <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=miguelantonio90&theme=onedark&row=2&rank=SECRET,S,SS,AAA,B,C" alt="miguelantonio90" />
 </div>
-
 <!--
 **miguelantonio90/miguelantonio90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
