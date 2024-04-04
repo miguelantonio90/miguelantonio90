@@ -21,6 +21,11 @@
   <img src="https://skillicons.dev/icons?i=git,docker,angular,bootstrap,css,cypress,git,github,html,js,jquery,laravel,materialui,mongodb,mysql,nodejs,php,phpstorm,postgres,postman,react,symfony,ts,vue,vuetify" alt="Languages and Tools" />
 </div>
 
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelantonio90&theme=github" alt="GitHub Activity Graph" />
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelantonio90&layout=compact&theme=nord" alt="Top Languages" />
 </div>
@@ -29,6 +34,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=miguelantonio90&theme=onedark&row=2&rank=SECRET,S,SS,AAA,B,C" alt="GitHub Trophies" />
 </div>
+
 
 <!--
 **miguelantonio90/miguelantonio90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
