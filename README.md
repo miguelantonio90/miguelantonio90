@@ -8,6 +8,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Miguel</h1>
   <h3>⚡⚡A Software Developer⚡⚡</h3>
+  ![Header](./github-header-image.png)
 </div>
 
 <!-- Other Stats -->
