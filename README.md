@@ -1,14 +1,14 @@
+
+<!-- Header -->
+<div>
+  <img alt="" class="bg mr ms c" loading="lazy" role="presentation" src="./github-header-image.png">	
+</div>
+
 <!-- Profile Views -->
 <div>
   <a align="left" href="https://linkedin.com/in/miguelcabreja90" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="miguelcabreja90" />
   </a>
-</div>
-<!-- Header -->
-<div align="center">
-  <h1>Hi 👋, I'm Miguel</h1>
-  <h3>⚡⚡A Software Developer⚡⚡</h3>
-  ![Header](./github-header-image.png)
 </div>
 
 <!-- Other Stats -->
